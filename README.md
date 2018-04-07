@@ -1,4 +1,12 @@
+
+# Внимание, в связи с [изменениями политики работы с даннными facebook от 04.04.2018](https://developers.facebook.com/docs/graph-api/changelog/breaking-changes/#groups-4-4), через api больше нельзя получать информацию об авторе поста, авторах комментариев, полученных реакциях. Таким образом по состоянию на 7.04.2018 данная BI система бессмыслена. 
+
+![](https://content.screencast.com/media/44ca71ba-faec-4816-8d95-97c1cf5c152f_9d700cb2-87df-433c-8403-c813c6a51c87_static_0_0_2018-04-07_15-09-15.png)
+
+
+Старое readme:
 # facebookGroupsAnalytics
+
 Power BI for Facebook Group Analytics
 
 - [Видео инструкция][1] по bi-системе на bi-tv.ru
